@@ -1,9 +1,8 @@
-# Assignment Description
+# Concert Prep Day Artist Monopoly
 
-written by 
+written by JL'23 
 
-edit with appropriate link:
+[![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Concert-Prep-Day-JL)](https://repl.it/github/athenian-ct-projects/Concert-Prep-Day-JL)
 
-[![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Ambassador-Day-Game-VGE)](https://repl.it/github/athenian-ct-projects/Ambassador-Day-Game-VGE)
-
-Add info about game here
+* This is a Monopoly-type game about artists so Visual Art students have something fun to do on Concert Prep Day. 
+* Playing pieces, cards and a game board are required for this to function as intended.
