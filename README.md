@@ -1,6 +1,6 @@
 # Concert Prep Day Artist Monopoly
 
-written by JL'23 
+written by JL '23 
 
 [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Concert-Prep-Day-JL)](https://repl.it/github/athenian-ct-projects/Concert-Prep-Day-JL)
 
