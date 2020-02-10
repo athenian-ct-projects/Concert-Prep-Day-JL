@@ -6,3 +6,5 @@ written by JL'23
 
 * This is a Monopoly-type game about artists so Visual Art students have something fun to do on Concert Prep Day. 
 * Playing pieces, cards and a game board are required for this to function as intended.
+
+Editing info: nothing yet
